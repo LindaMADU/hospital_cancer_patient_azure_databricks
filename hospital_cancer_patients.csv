@@ -1,0 +1,601 @@
+Patient ID,Patient Age,Age Range,Gender,Cancer Types,Cancer Stage Type
+PT-0001,64,Adult,Male,Bladder Cancer,Stage I
+PT-0002,56,Adult,Female,Breast Cancer,Stage III
+PT-0003,67,Senior,Female,Breast Cancer,Stage II
+PT-0004,79,Senior,Female,Breast Cancer,Stage I
+PT-0005,54,Adult,Female,Skin Cancer,Stage III
+PT-0006,54,Adult,Male,Lung Cancer,Stage II
+PT-0007,80,Senior,Female,Cervical Cancer,Stage I
+PT-0008,74,Senior,Male,Prostate Cancer,Stage III
+PT-0009,51,Adult,Female,Skin Cancer,Stage II
+PT-0010,65,Senior,Female,Breast Cancer,Stage III
+PT-0011,38,Adult,Female,Thyroid Cancer,Stage II
+PT-0012,51,Adult,Male,Kidney Cancer,Stage III
+PT-0013,61,Adult,Female,Cervical Cancer,Stage III
+PT-0014,47,Adult,Male,Prostate Cancer,Stage II
+PT-0015,33,Adult,Male,Colorectal Cancer,Stage III
+PT-0016,50,Adult,Female,Kidney Cancer,Stage III
+PT-0017,43,Adult,Female,Lung Cancer,Stage III
+PT-0018,62,Adult,Female,Lung Cancer,Stage IV
+PT-0019,45,Adult,Female,Lymphoma,Stage IV
+PT-0020,23,Adult,Male,Thyroid Cancer,Stage I
+PT-0021,81,Senior,Female,Pancreatic Cancer,Stage III
+PT-0022,83,Senior,Female,Leukemia,Stage I
+PT-0023,54,Adult,Female,Breast Cancer,Stage III
+PT-0024,61,Adult,Male,Prostate Cancer,Stage I
+PT-0025,59,Adult,Female,Lung Cancer,Stage I
+PT-0026,41,Adult,Female,Breast Cancer,Stage III
+PT-0027,70,Senior,Male,Prostate Cancer,Stage I
+PT-0028,49,Adult,Male,Skin Cancer,Stage IV
+PT-0029,53,Adult,Male,Lymphoma,Stage I
+PT-0030,49,Adult,Female,Lymphoma,Stage II
+PT-0031,83,Senior,Male,Colorectal Cancer,Stage IV
+PT-0032,57,Adult,Male,Lymphoma,Stage III
+PT-0033,74,Senior,Male,Leukemia,Stage IV
+PT-0034,79,Senior,Male,Leukemia,Stage IV
+PT-0035,18,Adult,Female,Leukemia,Stage III
+PT-0036,68,Senior,Male,Leukemia,Stage IV
+PT-0037,43,Adult,Male,Lymphoma,Stage II
+PT-0038,61,Adult,Male,Skin Cancer,Stage II
+PT-0039,70,Senior,Female,Breast Cancer,Stage I
+PT-0040,47,Adult,Female,Leukemia,Stage III
+PT-0041,65,Senior,Female,Skin Cancer,Stage III
+PT-0042,58,Adult,Female,Bladder Cancer,Stage IV
+PT-0043,64,Adult,Male,Bladder Cancer,Stage II
+PT-0044,67,Senior,Male,Lung Cancer,Stage III
+PT-0045,90,Senior,Male,Lung Cancer,Stage IV
+PT-0046,72,Senior,Female,Breast Cancer,Stage IV
+PT-0047,59,Adult,Female,Breast Cancer,Stage I
+PT-0048,63,Adult,Female,Breast Cancer,Stage I
+PT-0049,17,Teenager,Male,Leukemia,Stage I
+PT-0050,48,Adult,Male,Prostate Cancer,Stage II
+PT-0051,38,Adult,Male,Lymphoma,Stage IV
+PT-0052,66,Senior,Female,Breast Cancer,Stage IV
+PT-0053,45,Adult,Female,Breast Cancer,Stage I
+PT-0054,64,Adult,Male,Lung Cancer,Stage III
+PT-0055,76,Senior,Female,Lymphoma,Stage III
+PT-0056,60,Adult,Male,Skin Cancer,Stage IV
+PT-0057,66,Senior,Male,Lymphoma,Stage II
+PT-0058,45,Adult,Female,Lymphoma,Stage II
+PT-0059,56,Adult,Female,Cervical Cancer,Stage IV
+PT-0060,67,Senior,Male,Thyroid Cancer,Stage IV
+PT-0061,42,Adult,Female,Cervical Cancer,Stage I
+PT-0062,71,Senior,Female,Colorectal Cancer,Stage III
+PT-0063,82,Senior,Female,Breast Cancer,Stage III
+PT-0064,66,Senior,Female,Leukemia,Stage I
+PT-0065,76,Senior,Female,Leukemia,Stage III
+PT-0066,64,Adult,Male,Bladder Cancer,Stage IV
+PT-0067,68,Senior,Female,Skin Cancer,Stage II
+PT-0068,59,Adult,Male,Prostate Cancer,Stage II
+PT-0069,46,Adult,Male,Colorectal Cancer,Stage III
+PT-0070,55,Adult,Male,Lung Cancer,Stage III
+PT-0071,57,Adult,Female,Pancreatic Cancer,Stage IV
+PT-0072,60,Adult,Female,Cervical Cancer,Stage I
+PT-0073,56,Adult,Male,Lung Cancer,Stage IV
+PT-0074,90,Senior,Male,Lymphoma,Stage II
+PT-0075,43,Adult,Male,Skin Cancer,Stage II
+PT-0076,47,Adult,Female,Bladder Cancer,Stage I
+PT-0077,63,Adult,Male,Lymphoma,Stage III
+PT-0078,70,Senior,Male,Lung Cancer,Stage IV
+PT-0079,90,Senior,Female,Lung Cancer,Stage III
+PT-0080,80,Senior,Female,Lung Cancer,Stage I
+PT-0081,75,Senior,Male,Prostate Cancer,Stage I
+PT-0082,62,Adult,Male,Colorectal Cancer,Stage I
+PT-0083,75,Senior,Male,Prostate Cancer,Stage II
+PT-0084,49,Adult,Female,Breast Cancer,Stage II
+PT-0085,53,Adult,Female,Lymphoma,Stage II
+PT-0086,37,Adult,Female,Breast Cancer,Stage IV
+PT-0087,54,Adult,Male,Lung Cancer,Stage III
+PT-0088,71,Senior,Female,Skin Cancer,Stage II
+PT-0089,64,Adult,Male,Pancreatic Cancer,Stage IV
+PT-0090,33,Adult,Female,Thyroid Cancer,Stage I
+PT-0091,63,Adult,Female,Pancreatic Cancer,Stage IV
+PT-0092,68,Senior,Female,Lymphoma,Stage I
+PT-0093,54,Adult,Male,Kidney Cancer,Stage IV
+PT-0094,69,Senior,Female,Lung Cancer,Stage III
+PT-0095,25,Adult,Female,Thyroid Cancer,Stage I
+PT-0096,45,Adult,Male,Lung Cancer,Stage IV
+PT-0097,50,Adult,Female,Colorectal Cancer,Stage III
+PT-0098,39,Adult,Male,Lymphoma,Stage I
+PT-0099,90,Senior,Female,Cervical Cancer,Stage II
+PT-0100,42,Adult,Female,Cervical Cancer,Stage I
+PT-0101,76,Senior,Male,Prostate Cancer,Stage III
+PT-0102,60,Adult,Male,Prostate Cancer,Stage I
+PT-0103,50,Adult,Male,Lymphoma,Stage III
+PT-0104,62,Adult,Female,Breast Cancer,Stage II
+PT-0105,37,Adult,Female,Breast Cancer,Stage III
+PT-0106,48,Adult,Male,Bladder Cancer,Stage II
+PT-0107,55,Adult,Male,Bladder Cancer,Stage I
+PT-0108,46,Adult,Female,Breast Cancer,Stage III
+PT-0109,58,Adult,Female,Pancreatic Cancer,Stage III
+PT-0110,73,Senior,Male,Lymphoma,Stage II
+PT-0111,72,Senior,Female,Skin Cancer,Stage I
+PT-0112,51,Adult,Female,Bladder Cancer,Stage I
+PT-0113,56,Adult,Female,Breast Cancer,Stage I
+PT-0114,75,Senior,Female,Cervical Cancer,Stage III
+PT-0115,38,Adult,Male,Lung Cancer,Stage I
+PT-0116,62,Adult,Female,Cervical Cancer,Stage II
+PT-0117,85,Senior,Female,Lymphoma,Stage III
+PT-0118,71,Senior,Male,Leukemia,Stage IV
+PT-0119,47,Adult,Female,Lymphoma,Stage II
+PT-0120,47,Adult,Female,Thyroid Cancer,Stage I
+PT-0121,39,Adult,Female,Lung Cancer,Stage II
+PT-0122,63,Adult,Female,Leukemia,Stage IV
+PT-0123,48,Adult,Female,Lymphoma,Stage IV
+PT-0124,66,Senior,Male,Prostate Cancer,Stage II
+PT-0125,61,Adult,Female,Lung Cancer,Stage II
+PT-0126,65,Senior,Female,Lung Cancer,Stage III
+PT-0127,65,Senior,Male,Colorectal Cancer,Stage II
+PT-0128,58,Adult,Female,Colorectal Cancer,Stage I
+PT-0129,41,Adult,Female,Lung Cancer,Stage I
+PT-0130,74,Senior,Male,Prostate Cancer,Stage II
+PT-0131,64,Adult,Female,Breast Cancer,Stage IV
+PT-0132,42,Adult,Female,Skin Cancer,Stage I
+PT-0133,48,Adult,Female,Breast Cancer,Stage IV
+PT-0134,70,Senior,Female,Cervical Cancer,Stage II
+PT-0135,66,Senior,Female,Kidney Cancer,Stage II
+PT-0136,47,Adult,Male,Colorectal Cancer,Stage II
+PT-0137,54,Adult,Male,Bladder Cancer,Stage III
+PT-0138,65,Senior,Female,Pancreatic Cancer,Stage IV
+PT-0139,66,Senior,Female,Skin Cancer,Stage II
+PT-0140,75,Senior,Female,Breast Cancer,Stage II
+PT-0141,58,Adult,Male,Colorectal Cancer,Stage III
+PT-0142,78,Senior,Male,Prostate Cancer,Stage I
+PT-0143,70,Senior,Female,Breast Cancer,Stage IV
+PT-0144,60,Adult,Female,Colorectal Cancer,Stage I
+PT-0145,37,Adult,Female,Breast Cancer,Stage III
+PT-0146,43,Adult,Male,Lung Cancer,Stage III
+PT-0147,68,Senior,Female,Lung Cancer,Stage II
+PT-0148,34,Adult,Female,Skin Cancer,Stage III
+PT-0149,59,Adult,Male,Lung Cancer,Stage IV
+PT-0150,72,Senior,Female,Skin Cancer,Stage I
+PT-0151,60,Adult,Male,Kidney Cancer,Stage III
+PT-0152,49,Adult,Female,Lung Cancer,Stage IV
+PT-0153,46,Adult,Male,Skin Cancer,Stage III
+PT-0154,69,Senior,Male,Colorectal Cancer,Stage I
+PT-0155,64,Adult,Male,Bladder Cancer,Stage III
+PT-0156,54,Adult,Female,Breast Cancer,Stage III
+PT-0157,77,Senior,Male,Prostate Cancer,Stage II
+PT-0158,69,Senior,Female,Bladder Cancer,Stage III
+PT-0159,64,Adult,Female,Leukemia,Stage II
+PT-0160,83,Senior,Female,Lung Cancer,Stage IV
+PT-0161,84,Senior,Male,Lung Cancer,Stage III
+PT-0162,17,Teenager,Male,Leukemia,Stage II
+PT-0163,52,Adult,Male,Thyroid Cancer,Stage II
+PT-0164,57,Adult,Male,Colorectal Cancer,Stage I
+PT-0165,52,Adult,Male,Kidney Cancer,Stage III
+PT-0166,51,Adult,Male,Bladder Cancer,Stage I
+PT-0167,42,Adult,Female,Lung Cancer,Stage IV
+PT-0168,70,Senior,Female,Colorectal Cancer,Stage II
+PT-0169,71,Senior,Male,Kidney Cancer,Stage II
+PT-0170,63,Adult,Male,Colorectal Cancer,Stage I
+PT-0171,31,Adult,Female,Breast Cancer,Stage I
+PT-0172,89,Senior,Male,Kidney Cancer,Stage IV
+PT-0173,69,Senior,Male,Leukemia,Stage IV
+PT-0174,60,Adult,Male,Colorectal Cancer,Stage I
+PT-0175,47,Adult,Male,Leukemia,Stage III
+PT-0176,58,Adult,Male,Kidney Cancer,Stage I
+PT-0177,78,Senior,Female,Breast Cancer,Stage II
+PT-0178,54,Adult,Male,Lung Cancer,Stage II
+PT-0179,90,Senior,Female,Breast Cancer,Stage I
+PT-0180,54,Adult,Female,Thyroid Cancer,Stage IV
+PT-0181,45,Adult,Female,Breast Cancer,Stage III
+PT-0182,56,Adult,Male,Prostate Cancer,Stage I
+PT-0183,64,Adult,Male,Skin Cancer,Stage II
+PT-0184,54,Adult,Female,Skin Cancer,Stage II
+PT-0185,67,Senior,Male,Lung Cancer,Stage II
+PT-0186,64,Adult,Female,Breast Cancer,Stage III
+PT-0187,7,Child,Male,Leukemia,Stage III
+PT-0188,56,Adult,Male,Kidney Cancer,Stage I
+PT-0189,44,Adult,Female,Lung Cancer,Stage III
+PT-0190,49,Adult,Female,Skin Cancer,Stage III
+PT-0191,56,Adult,Female,Breast Cancer,Stage III
+PT-0192,18,Adult,Female,Thyroid Cancer,Stage I
+PT-0193,39,Adult,Female,Bladder Cancer,Stage II
+PT-0194,42,Adult,Male,Leukemia,Stage IV
+PT-0195,35,Adult,Female,Kidney Cancer,Stage I
+PT-0196,61,Adult,Female,Cervical Cancer,Stage IV
+PT-0197,46,Adult,Male,Bladder Cancer,Stage III
+PT-0198,72,Senior,Female,Lung Cancer,Stage IV
+PT-0199,58,Adult,Female,Lung Cancer,Stage IV
+PT-0200,79,Senior,Male,Leukemia,Stage III
+PT-0201,44,Adult,Male,Lymphoma,Stage II
+PT-0202,77,Senior,Male,Bladder Cancer,Stage I
+PT-0203,70,Senior,Female,Breast Cancer,Stage IV
+PT-0204,60,Adult,Male,Prostate Cancer,Stage III
+PT-0205,62,Adult,Female,Breast Cancer,Stage II
+PT-0206,61,Adult,Male,Lung Cancer,Stage III
+PT-0207,58,Adult,Male,Kidney Cancer,Stage I
+PT-0208,70,Senior,Female,Colorectal Cancer,Stage I
+PT-0209,78,Senior,Female,Cervical Cancer,Stage III
+PT-0210,58,Adult,Male,Colorectal Cancer,Stage I
+PT-0211,76,Senior,Female,Cervical Cancer,Stage II
+PT-0212,71,Senior,Female,Breast Cancer,Stage IV
+PT-0213,61,Adult,Female,Colorectal Cancer,Stage III
+PT-0214,60,Adult,Female,Cervical Cancer,Stage II
+PT-0215,41,Adult,Female,Breast Cancer,Stage IV
+PT-0216,36,Adult,Female,Colorectal Cancer,Stage II
+PT-0217,47,Adult,Male,Thyroid Cancer,Stage I
+PT-0218,46,Adult,Female,Colorectal Cancer,Stage II
+PT-0219,57,Adult,Female,Breast Cancer,Stage II
+PT-0220,36,Adult,Male,Thyroid Cancer,Stage III
+PT-0221,32,Adult,Female,Cervical Cancer,Stage II
+PT-0222,63,Adult,Female,Lung Cancer,Stage III
+PT-0223,14,Teenager,Female,Leukemia,Stage III
+PT-0224,30,Adult,Female,Bladder Cancer,Stage II
+PT-0225,63,Adult,Female,Breast Cancer,Stage IV
+PT-0226,50,Adult,Male,Lymphoma,Stage IV
+PT-0227,68,Senior,Female,Breast Cancer,Stage I
+PT-0228,44,Adult,Male,Thyroid Cancer,Stage II
+PT-0229,65,Senior,Female,Bladder Cancer,Stage III
+PT-0230,63,Adult,Male,Prostate Cancer,Stage II
+PT-0231,64,Adult,Male,Lymphoma,Stage I
+PT-0232,81,Senior,Female,Breast Cancer,Stage IV
+PT-0233,47,Adult,Male,Kidney Cancer,Stage III
+PT-0234,56,Adult,Male,Kidney Cancer,Stage III
+PT-0235,62,Adult,Male,Pancreatic Cancer,Stage III
+PT-0236,82,Senior,Male,Prostate Cancer,Stage I
+PT-0237,62,Adult,Male,Prostate Cancer,Stage III
+PT-0238,47,Adult,Male,Lung Cancer,Stage III
+PT-0239,49,Adult,Female,Lung Cancer,Stage II
+PT-0240,56,Adult,Male,Bladder Cancer,Stage I
+PT-0241,33,Adult,Female,Thyroid Cancer,Stage I
+PT-0242,52,Adult,Female,Breast Cancer,Stage III
+PT-0243,68,Senior,Male,Prostate Cancer,Stage II
+PT-0244,56,Adult,Female,Colorectal Cancer,Stage I
+PT-0245,75,Senior,Male,Prostate Cancer,Stage II
+PT-0246,53,Adult,Female,Cervical Cancer,Stage I
+PT-0247,55,Adult,Male,Lymphoma,Stage III
+PT-0248,61,Adult,Female,Bladder Cancer,Stage IV
+PT-0249,89,Senior,Female,Kidney Cancer,Stage III
+PT-0250,46,Adult,Female,Lung Cancer,Stage III
+PT-0251,84,Senior,Female,Bladder Cancer,Stage III
+PT-0252,41,Adult,Male,Bladder Cancer,Stage IV
+PT-0253,61,Adult,Male,Bladder Cancer,Stage I
+PT-0254,53,Adult,Male,Colorectal Cancer,Stage II
+PT-0255,58,Adult,Male,Prostate Cancer,Stage I
+PT-0256,16,Teenager,Female,Leukemia,Stage IV
+PT-0257,67,Senior,Female,Lung Cancer,Stage IV
+PT-0258,66,Senior,Female,Colorectal Cancer,Stage II
+PT-0259,51,Adult,Female,Breast Cancer,Stage IV
+PT-0260,28,Adult,Female,Kidney Cancer,Stage II
+PT-0261,38,Adult,Male,Thyroid Cancer,Stage I
+PT-0262,59,Adult,Female,Colorectal Cancer,Stage III
+PT-0263,45,Adult,Female,Thyroid Cancer,Stage II
+PT-0264,44,Adult,Female,Leukemia,Stage IV
+PT-0265,68,Senior,Male,Lung Cancer,Stage IV
+PT-0266,65,Senior,Male,Colorectal Cancer,Stage I
+PT-0267,60,Adult,Male,Breast Cancer,Stage I
+PT-0268,74,Senior,Male,Lymphoma,Stage II
+PT-0269,72,Senior,Female,Pancreatic Cancer,Stage IV
+PT-0270,68,Senior,Female,Kidney Cancer,Stage I
+PT-0271,72,Senior,Male,Leukemia,Stage I
+PT-0272,85,Senior,Male,Prostate Cancer,Stage II
+PT-0273,64,Adult,Male,Lung Cancer,Stage III
+PT-0274,73,Senior,Female,Cervical Cancer,Stage I
+PT-0275,65,Senior,Female,Colorectal Cancer,Stage I
+PT-0276,72,Senior,Female,Lung Cancer,Stage I
+PT-0277,48,Adult,Female,Colorectal Cancer,Stage II
+PT-0278,31,Adult,Female,Thyroid Cancer,Stage I
+PT-0279,50,Adult,Male,Lymphoma,Stage III
+PT-0280,40,Adult,Male,Skin Cancer,Stage IV
+PT-0281,59,Adult,Female,Skin Cancer,Stage II
+PT-0282,51,Adult,Female,Breast Cancer,Stage III
+PT-0283,75,Senior,Female,Breast Cancer,Stage III
+PT-0284,65,Senior,Female,Leukemia,Stage III
+PT-0285,39,Adult,Female,Colorectal Cancer,Stage II
+PT-0286,54,Adult,Male,Pancreatic Cancer,Stage IV
+PT-0287,46,Adult,Female,Cervical Cancer,Stage IV
+PT-0288,85,Senior,Male,Lymphoma,Stage II
+PT-0289,66,Senior,Male,Pancreatic Cancer,Stage III
+PT-0290,65,Senior,Female,Breast Cancer,Stage II
+PT-0291,55,Adult,Male,Skin Cancer,Stage II
+PT-0292,56,Adult,Female,Breast Cancer,Stage II
+PT-0293,50,Adult,Male,Lymphoma,Stage II
+PT-0294,58,Adult,Male,Kidney Cancer,Stage III
+PT-0295,71,Senior,Male,Prostate Cancer,Stage II
+PT-0296,48,Adult,Male,Leukemia,Stage I
+PT-0297,80,Senior,Female,Breast Cancer,Stage III
+PT-0298,65,Senior,Female,Skin Cancer,Stage II
+PT-0299,63,Adult,Male,Prostate Cancer,Stage IV
+PT-0300,61,Adult,Male,Prostate Cancer,Stage I
+PT-0301,72,Senior,Male,Colorectal Cancer,Stage III
+PT-0302,61,Adult,Female,Lung Cancer,Stage IV
+PT-0303,36,Adult,Female,Colorectal Cancer,Stage III
+PT-0304,63,Adult,Female,Skin Cancer,Stage IV
+PT-0305,62,Adult,Female,Thyroid Cancer,Stage II
+PT-0306,70,Senior,Female,Skin Cancer,Stage I
+PT-0307,49,Adult,Female,Lung Cancer,Stage IV
+PT-0308,39,Adult,Male,Colorectal Cancer,Stage III
+PT-0309,63,Adult,Male,Prostate Cancer,Stage III
+PT-0310,90,Senior,Female,Cervical Cancer,Stage III
+PT-0311,36,Adult,Male,Lung Cancer,Stage II
+PT-0312,46,Adult,Male,Colorectal Cancer,Stage III
+PT-0313,63,Adult,Male,Lymphoma,Stage I
+PT-0314,56,Adult,Female,Breast Cancer,Stage II
+PT-0315,64,Adult,Male,Prostate Cancer,Stage I
+PT-0316,55,Adult,Male,Leukemia,Stage II
+PT-0317,86,Senior,Male,Bladder Cancer,Stage II
+PT-0318,43,Adult,Female,Lung Cancer,Stage I
+PT-0319,41,Adult,Male,Colorectal Cancer,Stage III
+PT-0320,74,Senior,Male,Colorectal Cancer,Stage III
+PT-0321,69,Senior,Male,Lung Cancer,Stage III
+PT-0322,66,Senior,Female,Lymphoma,Stage II
+PT-0323,66,Senior,Male,Kidney Cancer,Stage IV
+PT-0324,57,Adult,Female,Lymphoma,Stage II
+PT-0325,45,Adult,Male,Bladder Cancer,Stage I
+PT-0326,59,Adult,Female,Colorectal Cancer,Stage II
+PT-0327,48,Adult,Male,Bladder Cancer,Stage III
+PT-0328,71,Senior,Female,Lung Cancer,Stage III
+PT-0329,55,Adult,Male,Colorectal Cancer,Stage III
+PT-0330,46,Adult,Female,Breast Cancer,Stage IV
+PT-0331,53,Adult,Female,Colorectal Cancer,Stage III
+PT-0332,63,Adult,Male,Lung Cancer,Stage II
+PT-0333,50,Adult,Female,Lung Cancer,Stage II
+PT-0334,32,Adult,Male,Thyroid Cancer,Stage II
+PT-0335,69,Senior,Male,Prostate Cancer,Stage II
+PT-0336,61,Adult,Female,Cervical Cancer,Stage III
+PT-0337,50,Adult,Male,Bladder Cancer,Stage II
+PT-0338,51,Adult,Female,Bladder Cancer,Stage I
+PT-0339,77,Senior,Male,Leukemia,Stage I
+PT-0340,61,Adult,Male,Colorectal Cancer,Stage IV
+PT-0341,37,Adult,Female,Lymphoma,Stage II
+PT-0342,38,Adult,Female,Skin Cancer,Stage III
+PT-0343,59,Adult,Male,Prostate Cancer,Stage II
+PT-0344,55,Adult,Male,Colorectal Cancer,Stage IV
+PT-0345,70,Senior,Male,Prostate Cancer,Stage IV
+PT-0346,78,Senior,Female,Breast Cancer,Stage I
+PT-0347,75,Senior,Male,Prostate Cancer,Stage II
+PT-0348,55,Adult,Male,Skin Cancer,Stage I
+PT-0349,44,Adult,Female,Thyroid Cancer,Stage II
+PT-0350,43,Adult,Male,Bladder Cancer,Stage II
+PT-0351,66,Senior,Male,Prostate Cancer,Stage III
+PT-0352,53,Adult,Female,Bladder Cancer,Stage II
+PT-0353,62,Adult,Male,Skin Cancer,Stage I
+PT-0354,46,Adult,Female,Bladder Cancer,Stage II
+PT-0355,72,Senior,Male,Pancreatic Cancer,Stage IV
+PT-0356,79,Senior,Male,Colorectal Cancer,Stage III
+PT-0357,56,Adult,Female,Kidney Cancer,Stage I
+PT-0358,63,Adult,Female,Bladder Cancer,Stage II
+PT-0359,67,Senior,Male,Lung Cancer,Stage II
+PT-0360,52,Adult,Female,Cervical Cancer,Stage I
+PT-0361,61,Adult,Male,Lymphoma,Stage IV
+PT-0362,58,Adult,Male,Lymphoma,Stage IV
+PT-0363,59,Adult,Female,Skin Cancer,Stage I
+PT-0364,47,Adult,Female,Lymphoma,Stage III
+PT-0365,58,Adult,Female,Breast Cancer,Stage IV
+PT-0366,64,Adult,Female,Skin Cancer,Stage I
+PT-0367,78,Senior,Female,Lung Cancer,Stage IV
+PT-0368,71,Senior,Female,Lung Cancer,Stage III
+PT-0369,88,Senior,Male,Colorectal Cancer,Stage II
+PT-0370,47,Adult,Male,Lung Cancer,Stage IV
+PT-0371,70,Senior,Female,Breast Cancer,Stage III
+PT-0372,60,Adult,Female,Breast Cancer,Stage II
+PT-0373,77,Senior,Male,Thyroid Cancer,Stage I
+PT-0374,58,Adult,Male,Prostate Cancer,Stage III
+PT-0375,46,Adult,Female,Lymphoma,Stage I
+PT-0376,47,Adult,Male,Leukemia,Stage III
+PT-0377,49,Adult,Female,Breast Cancer,Stage III
+PT-0378,47,Adult,Female,Breast Cancer,Stage III
+PT-0379,60,Adult,Female,Breast Cancer,Stage III
+PT-0380,70,Senior,Male,Pancreatic Cancer,Stage IV
+PT-0381,84,Senior,Female,Skin Cancer,Stage I
+PT-0382,59,Adult,Male,Thyroid Cancer,Stage I
+PT-0383,61,Adult,Male,Prostate Cancer,Stage II
+PT-0384,45,Adult,Female,Breast Cancer,Stage III
+PT-0385,64,Adult,Female,Skin Cancer,Stage I
+PT-0386,39,Adult,Male,Skin Cancer,Stage I
+PT-0387,83,Senior,Female,Bladder Cancer,Stage I
+PT-0388,69,Senior,Female,Leukemia,Stage III
+PT-0389,17,Teenager,Female,Leukemia,Stage II
+PT-0390,74,Senior,Female,Breast Cancer,Stage I
+PT-0391,51,Adult,Male,Bladder Cancer,Stage III
+PT-0392,34,Adult,Male,Colorectal Cancer,Stage II
+PT-0393,76,Senior,Female,Bladder Cancer,Stage II
+PT-0394,56,Adult,Female,Kidney Cancer,Stage I
+PT-0395,63,Adult,Male,Thyroid Cancer,Stage I
+PT-0396,21,Adult,Female,Thyroid Cancer,Stage III
+PT-0397,45,Adult,Female,Leukemia,Stage II
+PT-0398,49,Adult,Male,Kidney Cancer,Stage IV
+PT-0399,80,Senior,Female,Breast Cancer,Stage I
+PT-0400,61,Adult,Female,Colorectal Cancer,Stage II
+PT-0401,60,Adult,Female,Cervical Cancer,Stage IV
+PT-0402,76,Senior,Male,Leukemia,Stage IV
+PT-0403,69,Senior,Male,Kidney Cancer,Stage IV
+PT-0404,39,Adult,Male,Lung Cancer,Stage I
+PT-0405,49,Adult,Male,Bladder Cancer,Stage III
+PT-0406,48,Adult,Male,Lung Cancer,Stage I
+PT-0407,47,Adult,Male,Lymphoma,Stage II
+PT-0408,45,Adult,Female,Cervical Cancer,Stage I
+PT-0409,48,Adult,Male,Bladder Cancer,Stage III
+PT-0410,62,Adult,Female,Cervical Cancer,Stage III
+PT-0411,64,Adult,Male,Bladder Cancer,Stage I
+PT-0412,44,Adult,Male,Thyroid Cancer,Stage III
+PT-0413,52,Adult,Female,Breast Cancer,Stage IV
+PT-0414,79,Senior,Male,Prostate Cancer,Stage II
+PT-0415,51,Adult,Male,Leukemia,Stage II
+PT-0416,56,Adult,Female,Breast Cancer,Stage II
+PT-0417,71,Senior,Male,Pancreatic Cancer,Stage IV
+PT-0418,76,Senior,Female,Lung Cancer,Stage II
+PT-0419,21,Adult,Female,Breast Cancer,Stage IV
+PT-0420,60,Adult,Male,Prostate Cancer,Stage III
+PT-0421,66,Senior,Female,Cervical Cancer,Stage III
+PT-0422,74,Senior,Female,Kidney Cancer,Stage IV
+PT-0423,60,Adult,Female,Lymphoma,Stage III
+PT-0424,45,Adult,Female,Thyroid Cancer,Stage IV
+PT-0425,69,Senior,Male,Thyroid Cancer,Stage I
+PT-0426,75,Senior,Male,Skin Cancer,Stage I
+PT-0427,45,Adult,Male,Lymphoma,Stage IV
+PT-0428,59,Adult,Female,Kidney Cancer,Stage III
+PT-0429,63,Adult,Female,Breast Cancer,Stage II
+PT-0430,82,Senior,Male,Bladder Cancer,Stage II
+PT-0431,70,Senior,Female,Lung Cancer,Stage III
+PT-0432,56,Adult,Female,Lymphoma,Stage I
+PT-0433,61,Adult,Male,Lung Cancer,Stage III
+PT-0434,48,Adult,Female,Pancreatic Cancer,Stage III
+PT-0435,71,Senior,Female,Bladder Cancer,Stage II
+PT-0436,67,Senior,Male,Skin Cancer,Stage I
+PT-0437,79,Senior,Male,Pancreatic Cancer,Stage IV
+PT-0438,55,Adult,Female,Skin Cancer,Stage I
+PT-0439,68,Senior,Female,Pancreatic Cancer,Stage IV
+PT-0440,37,Adult,Male,Thyroid Cancer,Stage I
+PT-0441,41,Adult,Female,Lymphoma,Stage IV
+PT-0442,15,Teenager,Female,Leukemia,Stage II
+PT-0443,49,Adult,Female,Breast Cancer,Stage II
+PT-0444,13,Teenager,Male,Leukemia,Stage II
+PT-0445,42,Adult,Female,Kidney Cancer,Stage IV
+PT-0446,64,Adult,Female,Breast Cancer,Stage II
+PT-0447,64,Adult,Male,Leukemia,Stage I
+PT-0448,86,Senior,Female,Breast Cancer,Stage I
+PT-0449,53,Adult,Male,Lymphoma,Stage IV
+PT-0450,51,Adult,Male,Kidney Cancer,Stage II
+PT-0451,7,Child,Male,Leukemia,Stage III
+PT-0452,51,Adult,Female,Breast Cancer,Stage IV
+PT-0453,46,Adult,Male,Lung Cancer,Stage II
+PT-0454,50,Adult,Female,Skin Cancer,Stage II
+PT-0455,9,Child,Female,Leukemia,Stage I
+PT-0456,37,Adult,Male,Lung Cancer,Stage III
+PT-0457,65,Senior,Male,Prostate Cancer,Stage II
+PT-0458,58,Adult,Male,Colorectal Cancer,Stage II
+PT-0459,18,Adult,Male,Thyroid Cancer,Stage II
+PT-0460,56,Adult,Female,Breast Cancer,Stage II
+PT-0461,58,Adult,Female,Cervical Cancer,Stage III
+PT-0462,65,Senior,Female,Lung Cancer,Stage I
+PT-0463,74,Senior,Female,Breast Cancer,Stage II
+PT-0464,69,Senior,Female,Breast Cancer,Stage II
+PT-0465,49,Adult,Male,Skin Cancer,Stage II
+PT-0466,47,Adult,Male,Colorectal Cancer,Stage II
+PT-0467,66,Senior,Male,Kidney Cancer,Stage II
+PT-0468,50,Adult,Female,Bladder Cancer,Stage II
+PT-0469,40,Adult,Female,Lymphoma,Stage I
+PT-0470,53,Adult,Female,Leukemia,Stage III
+PT-0471,49,Adult,Male,Skin Cancer,Stage II
+PT-0472,18,Adult,Male,Thyroid Cancer,Stage I
+PT-0473,69,Senior,Female,Skin Cancer,Stage I
+PT-0474,44,Adult,Male,Colorectal Cancer,Stage II
+PT-0475,62,Adult,Female,Leukemia,Stage IV
+PT-0476,44,Adult,Male,Kidney Cancer,Stage II
+PT-0477,59,Adult,Female,Skin Cancer,Stage II
+PT-0478,79,Senior,Male,Colorectal Cancer,Stage II
+PT-0479,23,Adult,Female,Colorectal Cancer,Stage III
+PT-0480,32,Adult,Male,Thyroid Cancer,Stage I
+PT-0481,45,Adult,Female,Lung Cancer,Stage IV
+PT-0482,55,Adult,Female,Cervical Cancer,Stage III
+PT-0483,57,Adult,Male,Kidney Cancer,Stage II
+PT-0484,56,Adult,Female,Pancreatic Cancer,Stage III
+PT-0485,48,Adult,Female,Skin Cancer,Stage III
+PT-0486,47,Adult,Female,Cervical Cancer,Stage I
+PT-0487,53,Adult,Female,Colorectal Cancer,Stage IV
+PT-0488,61,Adult,Female,Bladder Cancer,Stage I
+PT-0489,49,Adult,Female,Leukemia,Stage I
+PT-0490,70,Senior,Female,Skin Cancer,Stage I
+PT-0491,58,Adult,Male,Pancreatic Cancer,Stage II
+PT-0492,66,Senior,Male,Prostate Cancer,Stage II
+PT-0493,90,Senior,Male,Bladder Cancer,Stage IV
+PT-0494,72,Senior,Female,Lung Cancer,Stage III
+PT-0495,51,Adult,Female,Lung Cancer,Stage II
+PT-0496,80,Senior,Female,Breast Cancer,Stage II
+PT-0497,52,Adult,Female,Kidney Cancer,Stage II
+PT-0498,48,Adult,Female,Lymphoma,Stage IV
+PT-0499,80,Senior,Male,Prostate Cancer,Stage I
+PT-0500,39,Adult,Female,Kidney Cancer,Stage IV
+PT-0501,31,Adult,Female,Breast Cancer,Stage IV
+PT-0502,71,Senior,Male,Colorectal Cancer,Stage II
+PT-0503,45,Adult,Female,Leukemia,Stage II
+PT-0504,39,Adult,Male,Thyroid Cancer,Stage I
+PT-0505,54,Adult,Male,Lung Cancer,Stage IV
+PT-0506,51,Adult,Female,Skin Cancer,Stage II
+PT-0507,49,Adult,Male,Bladder Cancer,Stage II
+PT-0508,52,Adult,Female,Breast Cancer,Stage IV
+PT-0509,18,Adult,Female,Leukemia,Stage II
+PT-0510,52,Adult,Female,Lung Cancer,Stage III
+PT-0511,22,Adult,Male,Kidney Cancer,Stage II
+PT-0512,67,Senior,Female,Lung Cancer,Stage III
+PT-0513,70,Senior,Male,Prostate Cancer,Stage IV
+PT-0514,56,Adult,Female,Lymphoma,Stage I
+PT-0515,69,Senior,Male,Pancreatic Cancer,Stage III
+PT-0516,61,Adult,Female,Breast Cancer,Stage II
+PT-0517,47,Adult,Male,Skin Cancer,Stage III
+PT-0518,37,Adult,Female,Thyroid Cancer,Stage II
+PT-0519,65,Senior,Male,Lymphoma,Stage III
+PT-0520,60,Adult,Female,Colorectal Cancer,Stage I
+PT-0521,86,Senior,Female,Skin Cancer,Stage II
+PT-0522,80,Senior,Female,Lung Cancer,Stage II
+PT-0523,71,Senior,Female,Lung Cancer,Stage IV
+PT-0524,59,Adult,Male,Prostate Cancer,Stage II
+PT-0525,65,Senior,Male,Leukemia,Stage III
+PT-0526,61,Adult,Male,Bladder Cancer,Stage II
+PT-0527,18,Adult,Female,Thyroid Cancer,Stage I
+PT-0528,62,Adult,Male,Prostate Cancer,Stage I
+PT-0529,53,Adult,Female,Cervical Cancer,Stage IV
+PT-0530,14,Teenager,Male,Leukemia,Stage IV
+PT-0531,27,Adult,Female,Thyroid Cancer,Stage IV
+PT-0532,69,Senior,Male,Prostate Cancer,Stage II
+PT-0533,90,Senior,Male,Pancreatic Cancer,Stage IV
+PT-0534,35,Adult,Female,Bladder Cancer,Stage III
+PT-0535,55,Adult,Male,Breast Cancer,Stage II
+PT-0536,52,Adult,Male,Kidney Cancer,Stage III
+PT-0537,49,Adult,Female,Cervical Cancer,Stage III
+PT-0538,68,Senior,Female,Skin Cancer,Stage I
+PT-0539,73,Senior,Male,Colorectal Cancer,Stage III
+PT-0540,68,Senior,Female,Breast Cancer,Stage I
+PT-0541,47,Adult,Female,Breast Cancer,Stage III
+PT-0542,90,Senior,Male,Kidney Cancer,Stage I
+PT-0543,49,Adult,Male,Prostate Cancer,Stage I
+PT-0544,43,Adult,Male,Lymphoma,Stage IV
+PT-0545,60,Adult,Female,Lung Cancer,Stage III
+PT-0546,46,Adult,Female,Thyroid Cancer,Stage I
+PT-0547,64,Adult,Female,Breast Cancer,Stage II
+PT-0548,80,Senior,Female,Colorectal Cancer,Stage IV
+PT-0549,65,Senior,Female,Pancreatic Cancer,Stage IV
+PT-0550,59,Adult,Female,Breast Cancer,Stage III
+PT-0551,49,Adult,Male,Colorectal Cancer,Stage II
+PT-0552,66,Senior,Female,Lung Cancer,Stage IV
+PT-0553,53,Adult,Female,Colorectal Cancer,Stage IV
+PT-0554,53,Adult,Female,Skin Cancer,Stage II
+PT-0555,72,Senior,Male,Prostate Cancer,Stage I
+PT-0556,72,Senior,Female,Bladder Cancer,Stage I
+PT-0557,27,Adult,Male,Kidney Cancer,Stage II
+PT-0558,63,Adult,Male,Skin Cancer,Stage I
+PT-0559,40,Adult,Female,Thyroid Cancer,Stage I
+PT-0560,71,Senior,Female,Lung Cancer,Stage IV
+PT-0561,54,Adult,Female,Breast Cancer,Stage III
+PT-0562,76,Senior,Female,Kidney Cancer,Stage III
+PT-0563,48,Adult,Female,Lung Cancer,Stage IV
+PT-0564,44,Adult,Male,Prostate Cancer,Stage II
+PT-0565,72,Senior,Male,Colorectal Cancer,Stage II
+PT-0566,32,Adult,Female,Thyroid Cancer,Stage III
+PT-0567,51,Adult,Male,Prostate Cancer,Stage I
+PT-0568,58,Adult,Female,Lymphoma,Stage II
+PT-0569,64,Adult,Female,Pancreatic Cancer,Stage III
+PT-0570,69,Senior,Male,Lung Cancer,Stage III
+PT-0571,70,Senior,Female,Bladder Cancer,Stage III
+PT-0572,7,Child,Female,Leukemia,Stage III
+PT-0573,59,Adult,Male,Kidney Cancer,Stage III
+PT-0574,42,Adult,Female,Leukemia,Stage III
+PT-0575,45,Adult,Male,Lymphoma,Stage I
+PT-0576,52,Adult,Female,Breast Cancer,Stage I
+PT-0577,65,Senior,Male,Lung Cancer,Stage III
+PT-0578,75,Senior,Female,Skin Cancer,Stage IV
+PT-0579,71,Senior,Male,Bladder Cancer,Stage II
+PT-0580,59,Adult,Female,Breast Cancer,Stage II
+PT-0581,51,Adult,Female,Colorectal Cancer,Stage III
+PT-0582,51,Adult,Female,Thyroid Cancer,Stage III
+PT-0583,76,Senior,Male,Leukemia,Stage IV
+PT-0584,53,Adult,Male,Lung Cancer,Stage IV
+PT-0585,62,Adult,Male,Prostate Cancer,Stage IV
+PT-0586,57,Adult,Female,Lung Cancer,Stage IV
+PT-0587,83,Senior,Female,Lymphoma,Stage II
+PT-0588,62,Adult,Male,Prostate Cancer,Stage I
+PT-0589,61,Adult,Female,Breast Cancer,Stage IV
+PT-0590,26,Adult,Male,Bladder Cancer,Stage III
+PT-0591,73,Senior,Male,Pancreatic Cancer,Stage III
+PT-0592,89,Senior,Female,Pancreatic Cancer,Stage IV
+PT-0593,44,Adult,Male,Skin Cancer,Stage I
+PT-0594,90,Senior,Male,Lung Cancer,Stage IV
+PT-0595,60,Adult,Female,Colorectal Cancer,Stage III
+PT-0596,41,Adult,Male,Prostate Cancer,Stage I
+PT-0597,52,Adult,Male,Kidney Cancer,Stage III
+PT-0598,17,Teenager,Female,Leukemia,Stage I
+PT-0599,76,Senior,Male,Lung Cancer,Stage IV
+PT-0600,85,Senior,Female,Colorectal Cancer,Stage II
